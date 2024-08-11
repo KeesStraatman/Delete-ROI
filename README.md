@@ -15,4 +15,6 @@ All the macros published on this repository can be used at your own risk. Althou
 
 ## Publications acknowledging this macro:
 
+Robinson BP, Bass NR, Bhakt P, Spiliotis ET (2024) Septin-coated microtubules promote maturation of multivesicular bodies by inhibiting their motility. J Cell Biol. 223(8):e202308049. doi: 10.1083/jcb.202308049.
+
 Ilona A. Kesisova, Benjamin P. Robinson, Elias T. Spiliotis (2021) A septin GTPase scaffold of dynein–dynactin motors triggers retrograde lysosome transport. J Cell Biol 220: e202005219.
